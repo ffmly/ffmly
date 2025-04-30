@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Yo, I'm Ryad<br><br>🎓 20 y.o. CS Engineering Student  <br>💡 Tech enthusiast & AI-assisted developer  <br>🌍 Fluent in multiple programming languages  <br>⚡ I code with **vibes** — powered by AI<br>- 🧑‍💻 Currently studying **Computer Science Engineering**<br><br><br><br>
+# 👋 Yo, I'm Ryad<br><br>🎓 20 y.o. CS Engineering Student  <br>💡 Tech enthusiast & AI-assisted developer  <br>  <br><br>- 🧑‍💻 Currently studying **Computer Science Engineering**<br><br><br><br>
 
 
 ## 🌐 Socials:
