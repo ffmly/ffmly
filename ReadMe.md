@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Yo, I'm Nasro<br><br>🎓 20 y.o. CS Engineering Student  <br>💡 Tech enthusiast & AI-assisted developer  <br>  <br><br>- 🧑‍💻 Currently studying **Computer Science Engineering**<br><br><br><br>
+# 👋 Yo, I'm Ryad <br><br>🎓 20 y.o. CS Engineering Student  <br>💡 Tech enthusiast & AI-assisted developer  <br>  <br><br>- 🧑‍💻 Currently studying **Computer Science Engineering**<br><br><br><br>
 
 
 ## 🌐 Socials:
